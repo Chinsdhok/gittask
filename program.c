@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {
-cout<<"Chinmay is Awesome";
+cout<<"Chinmay Dhok is Awesome";
 }
